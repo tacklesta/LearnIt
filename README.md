@@ -1,2 +1,4 @@
 # LearnIt
-Responsive Webpage Template
+Responsive Webpage Design
+
+Preview : https://tacklesta.github.io/LearnIt/
